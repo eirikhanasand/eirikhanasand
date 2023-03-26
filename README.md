@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eirikhanasand
 - 👀 Looking for a summer internship using React Native
-- 🌱 Currently learning C++, Javascript, React, React Native, nextjs, typescript and Regex
+- 🌱 Currently learning C++, Python, Java, Javascript, React, React Native and Regex
 - 💞️ Interested in collaborating on React Native development
 - 📫 Discord: Axe#9595, Mail: eirik.hanasand@gmail.com
 
