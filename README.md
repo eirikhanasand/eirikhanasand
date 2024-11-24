@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @eirikhanasand
-- 👀 Looking for a summer internship touching any technology mentioned below, or related to AI / ML.
-- 🌱 Currently learning React, React Native, NextJS, Tailwind and much more.
-- 💞️ Interested in collaborating on React Native development
+- 👀 Looking for opportunities.
+- 🌱 Always learning.
+- 💞️ Interested in collaborating on ideas that will make a real world difference.
 - 📫 Discord: eirikhanasand, Mail: eirik.hanasand@gmail.com
 
 <!---
